@@ -1,4 +1,4 @@
-# Qu-n-l-Nh-h-ng
+# Quản Lý Nhà Hàng
 I. Quản lý nhà hàng, quán ăn
 -  Đây là Dự án xây dựng Hệ thống Quán lý nhà hàng, quán ăn
 -  Dự án giúp giải quyết việc Sắp xếp ăn, quản lý từng khu vực ( nhà hàng lớn ), kiểm tra thu nhập theo ngày/tháng/năm, chỉnh sửa thực đơn khi hết món ăn hay thêm món
